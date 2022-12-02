@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/english-cards/static/css/main.dc81656f.css",
-    "main.js": "/english-cards/static/js/main.aa0cc571.js",
-    "static/js/54.1ee656e9.chunk.js": "/english-cards/static/js/54.1ee656e9.chunk.js",
-    "static/media/main-bg.jpg": "/english-cards/static/media/main-bg.1e8b736b58999676fa1b.jpg",
-    "index.html": "/english-cards/index.html",
-    "static/media/thumb-up.svg": "/english-cards/static/media/thumb-up.726b140063ef08cc1f09.svg",
-    "static/media/thumb-down.svg": "/english-cards/static/media/thumb-down.b5059d9adb64f9c88879.svg",
-    "main.dc81656f.css.map": "/english-cards/static/css/main.dc81656f.css.map",
-    "main.aa0cc571.js.map": "/english-cards/static/js/main.aa0cc571.js.map"
+    "main.css": "/english-words/static/css/main.293cfdec.css",
+    "main.js": "/english-words/static/js/main.da133a46.js",
+    "static/js/54.1ee656e9.chunk.js": "/english-words/static/js/54.1ee656e9.chunk.js",
+    "static/media/main-bg.jpg": "/english-words/static/media/main-bg.1e8b736b58999676fa1b.jpg",
+    "index.html": "/english-words/index.html",
+    "static/media/thumb-up.svg": "/english-words/static/media/thumb-up.726b140063ef08cc1f09.svg",
+    "static/media/thumb-down.svg": "/english-words/static/media/thumb-down.b5059d9adb64f9c88879.svg",
+    "main.293cfdec.css.map": "/english-words/static/css/main.293cfdec.css.map",
+    "main.da133a46.js.map": "/english-words/static/js/main.da133a46.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc81656f.css",
-    "static/js/main.aa0cc571.js"
+    "static/css/main.293cfdec.css",
+    "static/js/main.da133a46.js"
   ]
 }
